@@ -1,16 +1,30 @@
 ---
-title: Витрина
-lastUpdated: 2025-05-01
+title: Демонстрация
+lastUpdated: 2025-07-08
 ---
 
 <div align="center">
     <h1>Поддерживаемое</h1>
 </div>
 
-## illogical_impulse
-[Быстрый старт](../../i-i/01setup)    •    [GitHub](https://github.com/end-4/dots-hyprland)
+## illogical-impulse<sup>Quickshell</sup>
+[GitHub](https://github.com/end-4/dots-hyprland)
 
 ![image](https://repository-images.githubusercontent.com/583820372/55988d08-a8db-421a-8761-f6e98ea89ce3)
+![image](https://github.com/user-attachments/assets/08d26785-b54d-4ad1-875b-bb08cc6757f5)
+![image](https://github.com/user-attachments/assets/86cc511b-0d33-4c78-bcc0-3037d02a17da)
+![image](https://github.com/user-attachments/assets/e402f74a-6bd8-4ebe-bcf4-3a4a4846de10)
+
+## illogical-impulse<sup>Quickshell</sup>
+[GitHub](https://github.com/end-4/dots-hyprland)
+
+![image](https://repository-images.githubusercontent.com/583820372/55988d08-a8db-421a-8761-f6e98ea89ce3)
+![image](https://github.com/user-attachments/assets/08d26785-b54d-4ad1-875b-bb08cc6757f5)
+![image](https://github.com/user-attachments/assets/86cc511b-0d33-4c78-bcc0-3037d02a17da)
+![image](https://github.com/user-attachments/assets/e402f74a-6bd8-4ebe-bcf4-3a4a4846de10)
+
+
+## illogical-impulse<sup>AGS</sup>
 ![image](/dots-hyprland-wiki/screenshots/i-i.2.png)
 ![image](/dots-hyprland-wiki/screenshots/i-i.3.png)
 ![image](/dots-hyprland-wiki/screenshots/i-i.4.png)
@@ -19,18 +33,18 @@ lastUpdated: 2025-05-01
 ---
 
 <div align="center">
-    <h1>Не поддерживается</h1>
+    <h1>Неподдерживаемое</h1>
 </div>
 
 :::caution[Внимание]
-Всё что ниже:
-- Сейчас НЕ работает (смотреть [#99](https://github.com/end-4/dots-hyprland/issues/99))
-- Картинки по сути для эстетического удовольствия
-- Файлы все еще доступны для скачивания из ветки [`archive`](https://github.com/end-4/dots-hyprland/tree/archive) если вам охота самим все это настроить
+Всё нижеперечисленное:
+- В настоящий момент НЕ работает (see [#99](https://github.com/end-4/dots-hyprland/issues/99))
+- Изображения расположены здесь для эстетического удовольствия
+- Файлы все еще доступны для скачивания из ветки [`archive`](https://github.com/end-4/dots-hyprland/tree/archive), если вам охота самим все настроить
 :::
 
 :::tip[Совет]
-Кликните на картинку, чтобы посмотреть демонстрационные видео.
+Нажмите на изображение, чтобы посмотреть демонстрационные видео.
 :::
 
 ## m3ww
@@ -42,7 +56,7 @@ lastUpdated: 2025-05-01
 ## NovelKnock
 [GitHub](https://github.com/end-4/dots-hyprland/tree/archive)
 <a href="https://streamable.com/7vo61k">
- <img src="/dots-hyprland-wiki/screenshots/n-k.1.png" alt="Desktop Preview">
+ <img src="/dots-hyprland-wiki/screenshots/n-k.1.png" alt="Предпросмотр">
 </a>
 
 ## Hybrid
@@ -54,5 +68,5 @@ lastUpdated: 2025-05-01
 ## Windoes
 [GitHub](https://github.com/end-4/dots-hyprland/tree/archive)
 <a href="https://streamable.com/5qx614">
- <img src="/dots-hyprland-wiki/screenshots/windoes.1.png" alt="Desktop Preview">
+ <img src="/dots-hyprland-wiki/screenshots/windoes.1.png" alt="Предпросмотр">
 </a>
